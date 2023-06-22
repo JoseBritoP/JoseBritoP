@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Brito</h1>
 <h3 align="center">A passionate frontend & backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Rick-and-Morty (Henry Bootcamp)](https://github.com/JoseBritoP/rick_and_morty)
+- 🔭 I’m currently working on [PI-VIDEOGAMES](https://github.com/JoseBritoP/PI-Videogames)
 
 - 🌱 I’m currently learning **MySQL - Sequelize**
 
