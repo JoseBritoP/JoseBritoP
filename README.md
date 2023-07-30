@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Brito</h1>
 <h3 align="center">A passionate frontend & backend developer from Argentina</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop" alt="josebritop" /></a> </p>
 
 - 🔭 I’m currently working on [Profinder](https://github.com/JoseBritoP/Profinder)
 
@@ -23,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop" alt="josebritop" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
