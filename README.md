@@ -23,6 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 - Linkedin: https://www.linkedin.com/in/josé-brito-72224025b/
+</p>
+<p align="left">
 - Email: josealbritose@gmail.com
 </p>
 
