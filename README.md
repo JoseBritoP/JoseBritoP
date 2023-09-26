@@ -46,7 +46,7 @@
 
 - 🔭 I’m currently working on [UpTask](https://github.com/JoseBritoP/upTask)
 
-- 🌱 I’m currently learning **Docker - Kubernettes**
+- 🌱 I’m currently learning **Next 13**
 
 - 🤝 I’m looking for help with [ProFinder](https://github.com/johpaz/Profinder)
 
