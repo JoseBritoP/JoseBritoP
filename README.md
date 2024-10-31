@@ -43,23 +43,25 @@
 <h1 align="center"><b>Hi , I'm José Brito </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josebritop&label=Profile%20views&color=0e75b6&style=flat" alt="josebritop" /> </p>
+<p align="center"> <a href="https://github.com/josebritop/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jose Brito" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop" alt="josebritop" /></a> </p>
+	
 
-- 🌱 I’m currently learning **Socket.io - Docker - React Testing Library - Qt**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 👨‍💻 All of my projects are available at [https://josedev-five.vercel.app/](https://josedev-five.vercel.app/)
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jos%C3%A9-brito-72224025b/](https://www.linkedin.com/in/jos%C3%A9-brito-72224025b/)
+<br><br>
 
+- :technologist: I love using Software as a solution for every `Problem`.
 - 💬 Ask me about **PERM - MERN stack**
-
-- 📫 How to reach me **josealbritose@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/JoseBritoP](https://github.com/JoseBritoP)
-
+- :student: I’m currently learning `Docker`, `React Testing Library` and `Github Actions`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity` as FrontEnd Developer or Full Stack Developer.
+- :boom: You can visit [My Portfolio]([https://cutt.ly/Ahmed_Hossam_Website](https://josedev-five.vercel.app/](https://josedev-five.vercel.app/)).
 - ⚡ Fun fact **I like to be part of development teams to achieve a common goal and to use zod in my TypeScript projects.**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,7 +72,6 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
