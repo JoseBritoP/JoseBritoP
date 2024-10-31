@@ -1,10 +1,6 @@
 <h1 align="center"><b>Hi , I'm José Brito </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="center"> <a href="https://github.com/josebritop/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jose Brito" /></a> </p>
-
-	
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -16,6 +12,8 @@
 - :thinking: I’m currently open for a new `job opportunity` as FrontEnd Developer or Full Stack Developer.
 - :boom: You can visit [My Portfolio]([https://cutt.ly/Ahmed_Hossam_Website](https://josedev-five.vercel.app/](https://josedev-five.vercel.app/)).
 - ⚡ Fun fact **I like to be part of development teams to achieve a common goal and to use zod in my TypeScript projects.**
+
+<p align="center"> <a href="https://github.com/josebritop/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josebritop&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jose Brito" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-brito-72224025b/)
@@ -83,4 +81,5 @@
 <br>
 
 </p>
+
 
